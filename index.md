@@ -1,8 +1,7 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
+ 
 
 [Summarizer](https://easy-summarize.herokuapp.com/)
 <img src="images/easy_summarize_app.jpg?raw=true"/>
