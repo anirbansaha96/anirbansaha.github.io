@@ -20,9 +20,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <br>
-        <p class="view"><a href="https://github.com/anirbansaha96">View My GitHub Profile</a></p>
+        {{ site.description | default: site.github.project_tagline }}
+        <a href="https://github.com/anirbansaha96">View My GitHub Profile</a>
 
       </header>
       <section>
