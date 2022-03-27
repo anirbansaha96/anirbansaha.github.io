@@ -7,7 +7,7 @@ Finetuned the VGG-16 Architecture to classify different letters in the American 
 <br>
 [Check out the Code](https://htmlpreview.github.io/?https://github.com/anirbansaha96/AI-ML-Playground/blob/master/vgg16-asl.html)
 <br>
-<form action="https://share.streamlit.io/anirbansaha96/asl/main/src/st_asl.py" method="get" target="_blank"><button type="submit">Try it out!</button></form>
+<!-- <form action="https://share.streamlit.io/anirbansaha96/asl/main/src/st_asl.py" method="get" target="_blank"><button type="submit">Try it out!</button></form> -->
 <br>
 
 ---
